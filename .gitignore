@@ -3,4 +3,6 @@ obj/
 .vs/
 *.user
 *.suo
+*.pdb
+0Harmony.dll
 tools/_workshop_stage/
